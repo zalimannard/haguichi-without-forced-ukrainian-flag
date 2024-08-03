@@ -8,15 +8,6 @@
 </div>
 
 
-  Links
-  -----
-
-   * [Homepage](https://haguichi.net)
-   * [Download](https://haguichi.net/download/)
-   * [Bug tracker](https://github.com/ztefn/haguichi/issues)
-   * [Translations](https://translations.launchpad.net/haguichi)
-
-
   Features
   --------
 
